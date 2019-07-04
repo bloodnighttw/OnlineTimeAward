@@ -15,6 +15,7 @@ public final class Main extends JavaPlugin {
     public void configsetup(){
         cfgm.setup();
         cfgm.language.addDefault("test","");
+        //githubtest
         cfgm.saveLang();
         cfgm.reloadconfig();
     }
