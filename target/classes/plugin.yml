@@ -1,0 +1,7 @@
+name: OnlineTimeAward
+version: 1.0
+main: huan.yuan.bloodnighttw.onlinetimeaward.Main
+api-version: 1.13
+prefix: OTA
+authors: [bloodnighttw]
+description: a award plugin

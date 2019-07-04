@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="onlineTimeAward:jar">
+    <output-path>$PROJECT_DIR$/../server/server/plugins</output-path>
+    <root id="archive" name="onlineTimeAward.jar">
+      <element id="module-output" name="onlineTimeAward" />
+    </root>
+  </artifact>
+</component>
