@@ -4,5 +4,7 @@
     <mapping directory="E:/github/OTM" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git/OnlineTimeAward" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/onlineTimeAward" vcs="Git" />
   </component>
 </project>
